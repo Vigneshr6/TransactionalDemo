@@ -20,4 +20,5 @@ public class Employee {
     @JsonSerialize(using = LocalDateSerializer.class)
     private LocalDate dob;
     private long salary;
+    private Gender gender;
 }
