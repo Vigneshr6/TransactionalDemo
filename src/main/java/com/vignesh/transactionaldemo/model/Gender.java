@@ -1,6 +1,5 @@
 package com.vignesh.transactionaldemo.model;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonValue;
 
 public enum Gender {
